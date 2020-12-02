@@ -1,0 +1,14 @@
+9012,289.0,10-11-2020 : 00:35 - Account created@12-11-2020 : 08:04 - deposited $100.0@23-11-2020 : 15:40 - deposited $100.0@23-11-2020 : 15:41 - withdrew $10.0@23-11-2020 : 21:22 - deposited $99.0@23-11-2020 : 21:22 - received $99.0 from 2998,c
+6884,0.0,10-11-2020 : 01:03 - Account created,c
+6560,0.0,10-11-2020 : 12:12 - Account created,c
+2230,99.0,12-11-2020 : 12:42 - Account created@12-11-2020 : 12:42 - deposited $20.0@23-11-2020 : 15:50 - received $10.0 transfer from 5383@23-11-2020 : 15:53 - transferred $31.0 to 5383@23-11-2020 : 15:54 - deposited $100.0,c
+6462,0.0,23-11-2020 : 14:56 - Account created,c
+5383,54.0,23-11-2020 : 14:56 - Account created@23-11-2020 : 15:35 - deposited $10.0@23-11-2020 : 15:35 - deposited $23.0@23-11-2020 : 15:50 - transferred $10.0 to 2230@23-11-2020 : 15:53 - received $31.0 from 2230,c
+7717,0.0,23-11-2020 : 21:29 - Account created,c
+7080,10.0,23-11-2020 : 21:29 - Account created@23-11-2020 : 21:33 - deposited $10.0,s,11,1
+5809,0.0,02-12-2020 : 15:09 - Account created@02-12-2020 : 15:11 - deposited $50.0@02-12-2020 : 15:11 - received $50.0 from 3109@02-12-2020 : 15:13 - withdrew $50.0,c
+3109,0.0,02-12-2020 : 15:09 - Account created@02-12-2020 : 15:11 - deposited $100.0@02-12-2020 : 15:11 - withdrew $50.0@02-12-2020 : 15:11 - transferred $50.0 to 5809@02-12-2020 : 15:13 - withdrew $50.0,s,12,5
+2670,0.0,02-12-2020 : 15:09 - Account created,s,12,0
+2825,0.0,02-12-2020 : 15:10 - Account created,c
+7811,0.0,02-12-2020 : 15:10 - Account created,c
+2507,0.0,02-12-2020 : 15:10 - Account created,c
