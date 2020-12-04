@@ -1,5 +1,5 @@
 9012,289.0,10-11-2020 : 00:35 - Account created@12-11-2020 : 08:04 - deposited $100.0@23-11-2020 : 15:40 - deposited $100.0@23-11-2020 : 15:41 - withdrew $10.0@23-11-2020 : 21:22 - deposited $99.0@23-11-2020 : 21:22 - received $99.0 from 2998,c
-6884,0.0,10-11-2020 : 01:03 - Account created,c
+6884,32.0,10-11-2020 : 01:03 - Account created@03-12-2020 : 20:24 - deposited $32.0,c
 6560,0.0,10-11-2020 : 12:12 - Account created,c
 2230,99.0,12-11-2020 : 12:42 - Account created@12-11-2020 : 12:42 - deposited $20.0@23-11-2020 : 15:50 - received $10.0 transfer from 5383@23-11-2020 : 15:53 - transferred $31.0 to 5383@23-11-2020 : 15:54 - deposited $100.0,c
 6462,0.0,23-11-2020 : 14:56 - Account created,c
